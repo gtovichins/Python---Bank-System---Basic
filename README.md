@@ -1,2 +1,2 @@
-This is a simple Python-based banking system created for a DIO project -
+Simple Python-based banking system created for a DIO project -
 [Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-python-developer)
