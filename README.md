@@ -1,3 +1,5 @@
+[Leia em Português](./README.pt.md)
+-
 This project was developed as part of the Python Bootcamp at DIO ([Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-python-developer)).
 It simulates a simple banking system with realistic business rules. 
 
