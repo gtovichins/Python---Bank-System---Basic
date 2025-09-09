@@ -15,3 +15,8 @@ It simulates a simple banking system with realistic business rules.
 - Functions for modularization
 - datetime library to register transaction date and time
 
+## Project Structure
+  - basic-python-banking-system        📁 Root folder
+  - DIO Banking System Project.py       📝 Main Python script
+  - README.md                          📄 Documentation in English
+  - README.pt.md                        📄 Documentation in Portuguese
