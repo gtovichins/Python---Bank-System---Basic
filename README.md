@@ -3,6 +3,8 @@
 This project was developed as part of the Python Bootcamp at DIO ([Suzano - Python Developer](https://www.dio.me/bootcamp/suzano-python-developer)).
 It simulates a simple banking system with realistic business rules. 
 
+## [Improved project](https://github.com/gtovichins/improved-dio-banking-system-project)
+
 ## Features
 - Deposit money
 - Withdraw money with daily withdrawal limit (3 withdrawals per day)/maximum amount per withdrawal (R$500)
