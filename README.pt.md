@@ -16,9 +16,3 @@ Simula um sistema bancário simples com regras de negócio realistas.
   - Estruturas condicionais e loops
   - Funções para modularização
   - Biblioteca datetime para registrar data e hora das transações
-
-## Estrutura do Projeto
-  - basic-python-banking-system        📁 Root folder
-  - DIO Banking System Project.py       📝 Main Python script
-  - README.md                          📄 Documentation in English
-  - README.pt.md                        📄 Documentation in Portuguese
